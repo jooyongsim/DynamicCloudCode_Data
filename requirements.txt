@@ -1,0 +1,4 @@
+numpy==1.19.2
+setuptools==57.4.0
+tinyobjloader==2.0.0rc6
+torch==1.7.1
